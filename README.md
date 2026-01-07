@@ -16,7 +16,7 @@ O projeto seguiu um rigoroso pipeline estatístico:
 - **Seleção de Variáveis:** Utilização do algoritmo *Stepwise Backward Elimination* para remover variáveis não significativas (p-valor > 0.05), resultando em um modelo parcimonioso.
 
 ## 📈 Resultados Principais
-O modelo final alcançou um **R² Ajustado de 61.8%**, demonstrando alto poder explicativo.
+O modelo final alcançou um **R² Ajustado de 61.8%** [cite: 630], demonstrando alto poder explicativo.
 
 ### Insights de Negócio:
 - **Experiência:** O impacto salarial cresce significativamente até a faixa de 16-20 anos, onde atinge um platô.
